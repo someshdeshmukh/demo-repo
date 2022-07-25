@@ -1,4 +1,3 @@
 # demo 
 
-little description about the demo...
-this is me deshmukh somesh 
+little description about the demo!
